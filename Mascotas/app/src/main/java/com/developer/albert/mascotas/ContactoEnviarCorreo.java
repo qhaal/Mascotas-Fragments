@@ -1,4 +1,4 @@
-package com.developer.albert.mascotas;
+﻿package com.developer.albert.mascotas;
 
 import android.os.StrictMode;
 import android.support.v7.app.AppCompatActivity;
@@ -42,7 +42,7 @@ public class ContactoEnviarCorreo extends AppCompatActivity {
 
         // =================================================================
         correo ="scarfalberth@gmail.com";
-        contraseña ="enormously";
+        contraseña ="paraprobarponeraquisucontraseña";
 
         btnEnviarCorreo.setOnClickListener(new View.OnClickListener(){
             @Override
